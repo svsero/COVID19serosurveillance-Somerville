@@ -1,5 +1,5 @@
 # COVID19serosurveillance-Somerville
-Code to accompany Brown et al. "GPS-estimated foot traffic data and venue selection for COVID-19 serosurveillance studies"
+Code to accompany "GPS-estimated foot traffic data and venue selection for COVID-19 serosurveillance studies"
 
 # uncertaintybySamplingStrategy_102020.R
 Runs stochastic model estimating uncertainty for serology-based cumulative incidence estimates using different candidate sampling strategies. Requires somervilleData.rds
